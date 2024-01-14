@@ -1,0 +1,58 @@
+Elapsed time is 120.613017 seconds.
+
+result = 
+
+  1×4 struct array with fields:
+
+    ndraw
+    meth
+    nvar
+    pmean
+    pstd
+    nse
+    rne
+    nse1
+    rne1
+    nse2
+    rne2
+    nse3
+    rne3
+
+
+post_means =
+
+    0.0604
+   -0.0051
+    0.9550
+    0.1011
+
+
+post_std =
+
+    0.0275
+    0.0108
+    0.0206
+    0.0251
+
+
+NSE =
+
+   1.0e-04 *
+
+    0.5492
+    0.2159
+    0.4117
+    0.5022
+
+
+post_median =
+
+    0.0605
+   -0.0049
+    0.9560
+    0.0986
+
+
+acceptance_rate =
+
+    0.5294
